@@ -1,0 +1,20 @@
+{
+  "name": "Abhav's ai",
+  "short_name": "AbhavAI",
+  "description": "A public AI assistant build developed by Abhav. Accessible from any device or browser.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/bottts/svg?seed=Abhav&backgroundColor=6366f1",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#7c3aed"
+}
